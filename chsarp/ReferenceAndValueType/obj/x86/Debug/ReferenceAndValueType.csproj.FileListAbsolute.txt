@@ -1,0 +1,6 @@
+/home/ruby/Projects/CsharpExamples/ReferenceAndValueType/bin/Debug/ReferenceAndValueType.exe
+/home/ruby/Projects/CsharpExamples/ReferenceAndValueType/bin/Debug/ReferenceAndValueType.pdb
+/home/ruby/Projects/CsharpExamples/ReferenceAndValueType/obj/x86/Debug/ReferenceAndValueType.csproj.CoreCompileInputs.cache
+/home/ruby/Projects/CsharpExamples/ReferenceAndValueType/obj/x86/Debug/ReferenceAndValueType.exe
+/home/ruby/Projects/CsharpExamples/ReferenceAndValueType/obj/x86/Debug/ReferenceAndValueType.pdb
+/home/ruby/Projects/CsharpExamples/ReferenceAndValueType/obj/x86/Debug/ReferenceAndValueType.csprojAssemblyReference.cache

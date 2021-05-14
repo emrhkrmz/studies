@@ -1,0 +1,13 @@
+/home/ruby/Projects/CsharpExamples/Interfaces/bin/Debug/Interfaces.exe
+/home/ruby/Projects/CsharpExamples/Interfaces/bin/Debug/Interfaces.pdb
+/home/ruby/Projects/CsharpExamples/Interfaces/obj/x86/Debug/Interfaces.csproj.CoreCompileInputs.cache
+/home/ruby/Projects/CsharpExamples/Interfaces/obj/x86/Debug/Interfaces.exe
+/home/ruby/Projects/CsharpExamples/Interfaces/obj/x86/Debug/Interfaces.pdb
+/home/ruby/Projects/CsharpExamples/Interfaces/obj/x86/Debug/Interfaces.csprojAssemblyReference.cache
+G:\ProjectsLinux\CsharpExamples\Interfaces\bin\Debug\Interfaces.exe.config
+G:\ProjectsLinux\CsharpExamples\Interfaces\bin\Debug\Interfaces.exe
+G:\ProjectsLinux\CsharpExamples\Interfaces\bin\Debug\Interfaces.pdb
+G:\ProjectsLinux\CsharpExamples\Interfaces\obj\x86\Debug\Interfaces.csprojAssemblyReference.cache
+G:\ProjectsLinux\CsharpExamples\Interfaces\obj\x86\Debug\Interfaces.csproj.CoreCompileInputs.cache
+G:\ProjectsLinux\CsharpExamples\Interfaces\obj\x86\Debug\Interfaces.exe
+G:\ProjectsLinux\CsharpExamples\Interfaces\obj\x86\Debug\Interfaces.pdb

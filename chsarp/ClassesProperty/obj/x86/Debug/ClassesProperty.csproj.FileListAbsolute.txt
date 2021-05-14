@@ -1,0 +1,5 @@
+/home/ruby/Projects/CsharpExamples/ClassesProperty/bin/Debug/ClassesProperty.exe
+/home/ruby/Projects/CsharpExamples/ClassesProperty/bin/Debug/ClassesProperty.pdb
+/home/ruby/Projects/CsharpExamples/ClassesProperty/obj/x86/Debug/ClassesProperty.csproj.CoreCompileInputs.cache
+/home/ruby/Projects/CsharpExamples/ClassesProperty/obj/x86/Debug/ClassesProperty.exe
+/home/ruby/Projects/CsharpExamples/ClassesProperty/obj/x86/Debug/ClassesProperty.pdb

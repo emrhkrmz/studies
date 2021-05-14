@@ -1,0 +1,12 @@
+/home/ruby/Projects/CsharpExamples/PrimeNumbers/bin/Debug/PrimeNumbers.exe
+/home/ruby/Projects/CsharpExamples/PrimeNumbers/bin/Debug/PrimeNumbers.pdb
+/home/ruby/Projects/CsharpExamples/PrimeNumbers/obj/x86/Debug/PrimeNumbers.csproj.CoreCompileInputs.cache
+/home/ruby/Projects/CsharpExamples/PrimeNumbers/obj/x86/Debug/PrimeNumbers.exe
+/home/ruby/Projects/CsharpExamples/PrimeNumbers/obj/x86/Debug/PrimeNumbers.pdb
+G:\ProjectsLinux\CsharpExamples\PrimeNumbers\bin\Debug\PrimeNumbers.exe.config
+G:\ProjectsLinux\CsharpExamples\PrimeNumbers\bin\Debug\PrimeNumbers.exe
+G:\ProjectsLinux\CsharpExamples\PrimeNumbers\bin\Debug\PrimeNumbers.pdb
+G:\ProjectsLinux\CsharpExamples\PrimeNumbers\obj\x86\Debug\PrimeNumbers.csprojAssemblyReference.cache
+G:\ProjectsLinux\CsharpExamples\PrimeNumbers\obj\x86\Debug\PrimeNumbers.csproj.CoreCompileInputs.cache
+G:\ProjectsLinux\CsharpExamples\PrimeNumbers\obj\x86\Debug\PrimeNumbers.exe
+G:\ProjectsLinux\CsharpExamples\PrimeNumbers\obj\x86\Debug\PrimeNumbers.pdb

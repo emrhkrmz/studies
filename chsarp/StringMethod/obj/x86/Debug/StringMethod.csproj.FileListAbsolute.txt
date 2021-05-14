@@ -1,0 +1,6 @@
+/home/ruby/Projects/CsharpExamples/StringMethod/obj/x86/Debug/StringMethod.csproj.CoreCompileInputs.cache
+/home/ruby/Projects/CsharpExamples/StringMethod/bin/Debug/StringMethod.exe
+/home/ruby/Projects/CsharpExamples/StringMethod/bin/Debug/StringMethod.pdb
+/home/ruby/Projects/CsharpExamples/StringMethod/obj/x86/Debug/StringMethod.exe
+/home/ruby/Projects/CsharpExamples/StringMethod/obj/x86/Debug/StringMethod.pdb
+/home/ruby/Projects/CsharpExamples/StringMethod/obj/x86/Debug/StringMethod.csprojAssemblyReference.cache

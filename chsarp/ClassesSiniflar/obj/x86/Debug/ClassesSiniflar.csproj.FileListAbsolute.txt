@@ -1,0 +1,5 @@
+/home/ruby/Projects/CsharpExamples/ClassesSiniflar/obj/x86/Debug/ClassesSiniflar.csproj.CoreCompileInputs.cache
+/home/ruby/Projects/CsharpExamples/ClassesSiniflar/bin/Debug/ClassesSiniflar.exe
+/home/ruby/Projects/CsharpExamples/ClassesSiniflar/bin/Debug/ClassesSiniflar.pdb
+/home/ruby/Projects/CsharpExamples/ClassesSiniflar/obj/x86/Debug/ClassesSiniflar.exe
+/home/ruby/Projects/CsharpExamples/ClassesSiniflar/obj/x86/Debug/ClassesSiniflar.pdb

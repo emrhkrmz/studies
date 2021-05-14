@@ -1,0 +1,6 @@
+/home/ruby/Projects/CsharpExamples/LoopsFor/bin/Debug/LoopsFor.exe
+/home/ruby/Projects/CsharpExamples/LoopsFor/bin/Debug/LoopsFor.pdb
+/home/ruby/Projects/CsharpExamples/LoopsFor/obj/x86/Debug/LoopsFor.csprojAssemblyReference.cache
+/home/ruby/Projects/CsharpExamples/LoopsFor/obj/x86/Debug/LoopsFor.csproj.CoreCompileInputs.cache
+/home/ruby/Projects/CsharpExamples/LoopsFor/obj/x86/Debug/LoopsFor.exe
+/home/ruby/Projects/CsharpExamples/LoopsFor/obj/x86/Debug/LoopsFor.pdb

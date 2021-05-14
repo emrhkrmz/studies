@@ -1,0 +1,5 @@
+/home/ruby/Projects/CsharpExamples/Interitance/obj/x86/Debug/Interitance.csproj.CoreCompileInputs.cache
+/home/ruby/Projects/CsharpExamples/Interitance/bin/Debug/Interitance.exe
+/home/ruby/Projects/CsharpExamples/Interitance/bin/Debug/Interitance.pdb
+/home/ruby/Projects/CsharpExamples/Interitance/obj/x86/Debug/Interitance.exe
+/home/ruby/Projects/CsharpExamples/Interitance/obj/x86/Debug/Interitance.pdb

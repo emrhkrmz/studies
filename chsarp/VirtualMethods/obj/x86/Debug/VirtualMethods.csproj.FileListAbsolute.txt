@@ -1,0 +1,6 @@
+/home/ruby/Projects/CsharpExamples/VirtualMethods/obj/x86/Debug/VirtualMethods.csprojAssemblyReference.cache
+/home/ruby/Projects/CsharpExamples/VirtualMethods/obj/x86/Debug/VirtualMethods.csproj.CoreCompileInputs.cache
+/home/ruby/Projects/CsharpExamples/VirtualMethods/bin/Debug/VirtualMethods.exe
+/home/ruby/Projects/CsharpExamples/VirtualMethods/bin/Debug/VirtualMethods.pdb
+/home/ruby/Projects/CsharpExamples/VirtualMethods/obj/x86/Debug/VirtualMethods.exe
+/home/ruby/Projects/CsharpExamples/VirtualMethods/obj/x86/Debug/VirtualMethods.pdb

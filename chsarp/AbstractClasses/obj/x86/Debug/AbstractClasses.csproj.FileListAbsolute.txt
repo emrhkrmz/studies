@@ -1,0 +1,5 @@
+/home/ruby/Projects/CsharpExamples/AbstractClasses/obj/x86/Debug/AbstractClasses.csproj.CoreCompileInputs.cache
+/home/ruby/Projects/CsharpExamples/AbstractClasses/bin/Debug/AbstractClasses.exe
+/home/ruby/Projects/CsharpExamples/AbstractClasses/bin/Debug/AbstractClasses.pdb
+/home/ruby/Projects/CsharpExamples/AbstractClasses/obj/x86/Debug/AbstractClasses.exe
+/home/ruby/Projects/CsharpExamples/AbstractClasses/obj/x86/Debug/AbstractClasses.pdb

@@ -1,0 +1,6 @@
+/home/ruby/Projects/CsharpExamples/IciceIfBloklari/obj/x86/Debug/IciceIfBloklari.csproj.CoreCompileInputs.cache
+/home/ruby/Projects/CsharpExamples/IciceIfBloklari/bin/Debug/IciceIfBloklari.exe
+/home/ruby/Projects/CsharpExamples/IciceIfBloklari/bin/Debug/IciceIfBloklari.pdb
+/home/ruby/Projects/CsharpExamples/IciceIfBloklari/obj/x86/Debug/IciceIfBloklari.exe
+/home/ruby/Projects/CsharpExamples/IciceIfBloklari/obj/x86/Debug/IciceIfBloklari.pdb
+/home/ruby/Projects/CsharpExamples/IciceIfBloklari/obj/x86/Debug/IciceIfBloklari.csprojAssemblyReference.cache

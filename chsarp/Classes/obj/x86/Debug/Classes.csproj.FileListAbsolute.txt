@@ -1,0 +1,6 @@
+/home/ruby/Projects/CsharpExamples/Classes/bin/Debug/Classes.exe
+/home/ruby/Projects/CsharpExamples/Classes/bin/Debug/Classes.pdb
+/home/ruby/Projects/CsharpExamples/Classes/obj/x86/Debug/Classes.csproj.CoreCompileInputs.cache
+/home/ruby/Projects/CsharpExamples/Classes/obj/x86/Debug/Classes.exe
+/home/ruby/Projects/CsharpExamples/Classes/obj/x86/Debug/Classes.pdb
+/home/ruby/Projects/CsharpExamples/Classes/obj/x86/Debug/Classes.csprojAssemblyReference.cache

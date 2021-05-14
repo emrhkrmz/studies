@@ -1,0 +1,5 @@
+/home/ruby/Projects/CsharpExamples/RefKeyword/obj/x86/Debug/RefKeyword.csproj.CoreCompileInputs.cache
+/home/ruby/Projects/CsharpExamples/RefKeyword/bin/Debug/RefKeyword.exe
+/home/ruby/Projects/CsharpExamples/RefKeyword/bin/Debug/RefKeyword.pdb
+/home/ruby/Projects/CsharpExamples/RefKeyword/obj/x86/Debug/RefKeyword.exe
+/home/ruby/Projects/CsharpExamples/RefKeyword/obj/x86/Debug/RefKeyword.pdb

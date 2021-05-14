@@ -1,0 +1,5 @@
+/home/ruby/Projects/CsharpExamples/MethodsMetodlar/obj/x86/Debug/MethodsMetodlar.csproj.CoreCompileInputs.cache
+/home/ruby/Projects/CsharpExamples/MethodsMetodlar/bin/Debug/MethodsMetodlar.exe
+/home/ruby/Projects/CsharpExamples/MethodsMetodlar/bin/Debug/MethodsMetodlar.pdb
+/home/ruby/Projects/CsharpExamples/MethodsMetodlar/obj/x86/Debug/MethodsMetodlar.exe
+/home/ruby/Projects/CsharpExamples/MethodsMetodlar/obj/x86/Debug/MethodsMetodlar.pdb

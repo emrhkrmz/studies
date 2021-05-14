@@ -1,0 +1,5 @@
+/home/ruby/Projects/CsharpExamples/RecapDemo2/bin/Debug/RecapDemo2.exe
+/home/ruby/Projects/CsharpExamples/RecapDemo2/bin/Debug/RecapDemo2.pdb
+/home/ruby/Projects/CsharpExamples/RecapDemo2/obj/x86/Debug/RecapDemo2.csproj.CoreCompileInputs.cache
+/home/ruby/Projects/CsharpExamples/RecapDemo2/obj/x86/Debug/RecapDemo2.exe
+/home/ruby/Projects/CsharpExamples/RecapDemo2/obj/x86/Debug/RecapDemo2.pdb

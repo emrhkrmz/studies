@@ -1,0 +1,6 @@
+/home/ruby/Projects/CsharpExamples/SingleLineIf/bin/Debug/SingleLineIf.exe
+/home/ruby/Projects/CsharpExamples/SingleLineIf/bin/Debug/SingleLineIf.pdb
+/home/ruby/Projects/CsharpExamples/SingleLineIf/obj/x86/Debug/SingleLineIf.csproj.CoreCompileInputs.cache
+/home/ruby/Projects/CsharpExamples/SingleLineIf/obj/x86/Debug/SingleLineIf.exe
+/home/ruby/Projects/CsharpExamples/SingleLineIf/obj/x86/Debug/SingleLineIf.pdb
+/home/ruby/Projects/CsharpExamples/SingleLineIf/obj/x86/Debug/SingleLineIf.csprojAssemblyReference.cache

@@ -1,0 +1,6 @@
+/home/ruby/Projects/CsharpExamples/EnumTipDonusumleri/bin/Debug/EnumTipDonusumleri.exe
+/home/ruby/Projects/CsharpExamples/EnumTipDonusumleri/bin/Debug/EnumTipDonusumleri.pdb
+/home/ruby/Projects/CsharpExamples/EnumTipDonusumleri/obj/x86/Debug/EnumTipDonusumleri.csproj.CoreCompileInputs.cache
+/home/ruby/Projects/CsharpExamples/EnumTipDonusumleri/obj/x86/Debug/EnumTipDonusumleri.exe
+/home/ruby/Projects/CsharpExamples/EnumTipDonusumleri/obj/x86/Debug/EnumTipDonusumleri.pdb
+/home/ruby/Projects/CsharpExamples/EnumTipDonusumleri/obj/x86/Debug/EnumTipDonusumleri.csprojAssemblyReference.cache

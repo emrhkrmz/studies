@@ -1,0 +1,6 @@
+/home/ruby/Projects/CsharpExamples/ValueTypes/bin/Debug/ValueTypes.exe
+/home/ruby/Projects/CsharpExamples/ValueTypes/bin/Debug/ValueTypes.pdb
+/home/ruby/Projects/CsharpExamples/ValueTypes/obj/x86/Debug/ValueTypesVeriTipleri.csproj.CoreCompileInputs.cache
+/home/ruby/Projects/CsharpExamples/ValueTypes/obj/x86/Debug/ValueTypes.exe
+/home/ruby/Projects/CsharpExamples/ValueTypes/obj/x86/Debug/ValueTypes.pdb
+/home/ruby/Projects/CsharpExamples/ValueTypes/obj/x86/Debug/ValueTypesVeriTipleri.csprojAssemblyReference.cache

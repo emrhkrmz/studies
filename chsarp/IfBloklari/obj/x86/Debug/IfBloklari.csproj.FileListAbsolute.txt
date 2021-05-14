@@ -1,0 +1,5 @@
+/home/ruby/Projects/CsharpExamples/IfBloklari/obj/x86/Debug/IfBloklari.csproj.CoreCompileInputs.cache
+/home/ruby/Projects/CsharpExamples/IfBloklari/bin/Debug/IfBloklari.exe
+/home/ruby/Projects/CsharpExamples/IfBloklari/bin/Debug/IfBloklari.pdb
+/home/ruby/Projects/CsharpExamples/IfBloklari/obj/x86/Debug/IfBloklari.exe
+/home/ruby/Projects/CsharpExamples/IfBloklari/obj/x86/Debug/IfBloklari.pdb

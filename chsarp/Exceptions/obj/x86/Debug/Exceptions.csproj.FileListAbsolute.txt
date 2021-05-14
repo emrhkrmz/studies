@@ -1,0 +1,5 @@
+/home/ruby/Projects/CsharpExamples/Exceptions/obj/x86/Debug/Exceptions.csproj.CoreCompileInputs.cache
+/home/ruby/Projects/CsharpExamples/Exceptions/bin/Debug/Exceptions.exe
+/home/ruby/Projects/CsharpExamples/Exceptions/bin/Debug/Exceptions.pdb
+/home/ruby/Projects/CsharpExamples/Exceptions/obj/x86/Debug/Exceptions.exe
+/home/ruby/Projects/CsharpExamples/Exceptions/obj/x86/Debug/Exceptions.pdb

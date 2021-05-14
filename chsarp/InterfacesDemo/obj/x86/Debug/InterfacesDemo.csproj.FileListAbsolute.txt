@@ -1,0 +1,5 @@
+/home/ruby/Projects/CsharpExamples/InterfacesDemo/bin/Debug/InterfacesDemo.exe
+/home/ruby/Projects/CsharpExamples/InterfacesDemo/bin/Debug/InterfacesDemo.pdb
+/home/ruby/Projects/CsharpExamples/InterfacesDemo/obj/x86/Debug/InterfacesDemo.csproj.CoreCompileInputs.cache
+/home/ruby/Projects/CsharpExamples/InterfacesDemo/obj/x86/Debug/InterfacesDemo.exe
+/home/ruby/Projects/CsharpExamples/InterfacesDemo/obj/x86/Debug/InterfacesDemo.pdb

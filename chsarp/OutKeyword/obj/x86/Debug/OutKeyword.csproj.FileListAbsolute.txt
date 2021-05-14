@@ -1,0 +1,5 @@
+/home/ruby/Projects/CsharpExamples/OutKeyword/bin/Debug/OutKeyword.exe
+/home/ruby/Projects/CsharpExamples/OutKeyword/bin/Debug/OutKeyword.pdb
+/home/ruby/Projects/CsharpExamples/OutKeyword/obj/x86/Debug/OutKeyword.csproj.CoreCompileInputs.cache
+/home/ruby/Projects/CsharpExamples/OutKeyword/obj/x86/Debug/OutKeyword.exe
+/home/ruby/Projects/CsharpExamples/OutKeyword/obj/x86/Debug/OutKeyword.pdb

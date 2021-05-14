@@ -1,0 +1,6 @@
+/home/ruby/Projects/CsharpExamples/Collections/bin/Debug/Collections.exe
+/home/ruby/Projects/CsharpExamples/Collections/bin/Debug/Collections.pdb
+/home/ruby/Projects/CsharpExamples/Collections/obj/x86/Debug/Collections.csproj.CoreCompileInputs.cache
+/home/ruby/Projects/CsharpExamples/Collections/obj/x86/Debug/Collections.exe
+/home/ruby/Projects/CsharpExamples/Collections/obj/x86/Debug/Collections.pdb
+/home/ruby/Projects/CsharpExamples/Collections/obj/x86/Debug/Collections.csprojAssemblyReference.cache

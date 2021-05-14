@@ -1,0 +1,5 @@
+/home/ruby/Projects/CsharpExamples/LinqProject/bin/Debug/LinqProject.exe
+/home/ruby/Projects/CsharpExamples/LinqProject/bin/Debug/LinqProject.pdb
+/home/ruby/Projects/CsharpExamples/LinqProject/obj/x86/Debug/LinqProject.csproj.CoreCompileInputs.cache
+/home/ruby/Projects/CsharpExamples/LinqProject/obj/x86/Debug/LinqProject.exe
+/home/ruby/Projects/CsharpExamples/LinqProject/obj/x86/Debug/LinqProject.pdb

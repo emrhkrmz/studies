@@ -1,0 +1,5 @@
+/home/ruby/Projects/CsharpExamples/VarKeyword/bin/Debug/VarKeyword.exe
+/home/ruby/Projects/CsharpExamples/VarKeyword/bin/Debug/VarKeyword.pdb
+/home/ruby/Projects/CsharpExamples/VarKeyword/obj/x86/Debug/VarKeyword.csproj.CoreCompileInputs.cache
+/home/ruby/Projects/CsharpExamples/VarKeyword/obj/x86/Debug/VarKeyword.exe
+/home/ruby/Projects/CsharpExamples/VarKeyword/obj/x86/Debug/VarKeyword.pdb

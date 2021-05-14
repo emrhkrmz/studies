@@ -1,0 +1,6 @@
+/home/ruby/Projects/CsharpExamples/Loops/bin/Debug/Loops.exe
+/home/ruby/Projects/CsharpExamples/Loops/bin/Debug/Loops.pdb
+/home/ruby/Projects/CsharpExamples/Loops/obj/x86/Debug/LoopsDüngüler.csproj.CoreCompileInputs.cache
+/home/ruby/Projects/CsharpExamples/Loops/obj/x86/Debug/Loops.exe
+/home/ruby/Projects/CsharpExamples/Loops/obj/x86/Debug/Loops.pdb
+/home/ruby/Projects/CsharpExamples/Loops/obj/x86/Debug/LoopsDüngüler.csprojAssemblyReference.cache

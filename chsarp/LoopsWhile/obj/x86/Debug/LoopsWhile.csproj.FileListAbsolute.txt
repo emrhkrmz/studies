@@ -1,0 +1,6 @@
+/home/ruby/Projects/CsharpExamples/LoopsWhile/bin/Debug/LoopsWhile.exe
+/home/ruby/Projects/CsharpExamples/LoopsWhile/bin/Debug/LoopsWhile.pdb
+/home/ruby/Projects/CsharpExamples/LoopsWhile/obj/x86/Debug/LoopsWhile.csproj.CoreCompileInputs.cache
+/home/ruby/Projects/CsharpExamples/LoopsWhile/obj/x86/Debug/LoopsWhile.exe
+/home/ruby/Projects/CsharpExamples/LoopsWhile/obj/x86/Debug/LoopsWhile.pdb
+/home/ruby/Projects/CsharpExamples/LoopsWhile/obj/x86/Debug/LoopsWhile.csprojAssemblyReference.cache

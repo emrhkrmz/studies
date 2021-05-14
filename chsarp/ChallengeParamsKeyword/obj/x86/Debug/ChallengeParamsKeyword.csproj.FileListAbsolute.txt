@@ -1,0 +1,5 @@
+/home/ruby/Projects/CsharpExamples/ChallengeParamsKeyword/obj/x86/Debug/ChallengeParamsKeyword.csproj.CoreCompileInputs.cache
+/home/ruby/Projects/CsharpExamples/ChallengeParamsKeyword/bin/Debug/ChallengeParamsKeyword.exe
+/home/ruby/Projects/CsharpExamples/ChallengeParamsKeyword/bin/Debug/ChallengeParamsKeyword.pdb
+/home/ruby/Projects/CsharpExamples/ChallengeParamsKeyword/obj/x86/Debug/ChallengeParamsKeyword.exe
+/home/ruby/Projects/CsharpExamples/ChallengeParamsKeyword/obj/x86/Debug/ChallengeParamsKeyword.pdb

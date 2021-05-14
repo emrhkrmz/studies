@@ -1,0 +1,5 @@
+/home/ruby/Projects/CsharpExamples/MethodOverloadingMetodlarınAsiriYuklenmesi/bin/Debug/MethodOverloadingMetodlarınAsiriYuklenmesi.exe
+/home/ruby/Projects/CsharpExamples/MethodOverloadingMetodlarınAsiriYuklenmesi/bin/Debug/MethodOverloadingMetodlarınAsiriYuklenmesi.pdb
+/home/ruby/Projects/CsharpExamples/MethodOverloadingMetodlarınAsiriYuklenmesi/obj/x86/Debug/MethodOverloading.csproj.CoreCompileInputs.cache
+/home/ruby/Projects/CsharpExamples/MethodOverloadingMetodlarınAsiriYuklenmesi/obj/x86/Debug/MethodOverloadingMetodlarınAsiriYuklenmesi.exe
+/home/ruby/Projects/CsharpExamples/MethodOverloadingMetodlarınAsiriYuklenmesi/obj/x86/Debug/MethodOverloadingMetodlarınAsiriYuklenmesi.pdb

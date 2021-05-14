@@ -1,0 +1,5 @@
+/home/ruby/Projects/CsharpExamples/Constructors/bin/Debug/Constructors.exe
+/home/ruby/Projects/CsharpExamples/Constructors/bin/Debug/Constructors.pdb
+/home/ruby/Projects/CsharpExamples/Constructors/obj/x86/Debug/Constructors.csproj.CoreCompileInputs.cache
+/home/ruby/Projects/CsharpExamples/Constructors/obj/x86/Debug/Constructors.exe
+/home/ruby/Projects/CsharpExamples/Constructors/obj/x86/Debug/Constructors.pdb

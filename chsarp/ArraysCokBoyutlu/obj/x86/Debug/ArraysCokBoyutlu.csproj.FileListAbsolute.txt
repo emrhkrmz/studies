@@ -1,0 +1,5 @@
+/home/ruby/Projects/CsharpExamples/ArraysCokBoyutlu/obj/x86/Debug/ArraysCokBoyutlu.csproj.CoreCompileInputs.cache
+/home/ruby/Projects/CsharpExamples/ArraysCokBoyutlu/bin/Debug/ArraysCokBoyutlu.exe
+/home/ruby/Projects/CsharpExamples/ArraysCokBoyutlu/bin/Debug/ArraysCokBoyutlu.pdb
+/home/ruby/Projects/CsharpExamples/ArraysCokBoyutlu/obj/x86/Debug/ArraysCokBoyutlu.exe
+/home/ruby/Projects/CsharpExamples/ArraysCokBoyutlu/obj/x86/Debug/ArraysCokBoyutlu.pdb

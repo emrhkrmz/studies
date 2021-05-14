@@ -1,0 +1,5 @@
+/home/ruby/Projects/CsharpExamples/ArraysDiziler/bin/Debug/ArraysDiziler.exe
+/home/ruby/Projects/CsharpExamples/ArraysDiziler/bin/Debug/ArraysDiziler.pdb
+/home/ruby/Projects/CsharpExamples/ArraysDiziler/obj/x86/Debug/ArraysDiziler.csproj.CoreCompileInputs.cache
+/home/ruby/Projects/CsharpExamples/ArraysDiziler/obj/x86/Debug/ArraysDiziler.exe
+/home/ruby/Projects/CsharpExamples/ArraysDiziler/obj/x86/Debug/ArraysDiziler.pdb

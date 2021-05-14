@@ -1,0 +1,12 @@
+/home/ruby/Projects/CsharpExamples/AccessModifiers/bin/Debug/AccessModifiers.exe
+/home/ruby/Projects/CsharpExamples/AccessModifiers/bin/Debug/AccessModifiers.pdb
+/home/ruby/Projects/CsharpExamples/AccessModifiers/obj/x86/Debug/AccessModifiers.csproj.CoreCompileInputs.cache
+/home/ruby/Projects/CsharpExamples/AccessModifiers/obj/x86/Debug/AccessModifiers.exe
+/home/ruby/Projects/CsharpExamples/AccessModifiers/obj/x86/Debug/AccessModifiers.pdb
+G:\ProjectsLinux\CsharpExamples\AccessModifiers\bin\Debug\AccessModifiers.exe.config
+G:\ProjectsLinux\CsharpExamples\AccessModifiers\bin\Debug\AccessModifiers.exe
+G:\ProjectsLinux\CsharpExamples\AccessModifiers\bin\Debug\AccessModifiers.pdb
+G:\ProjectsLinux\CsharpExamples\AccessModifiers\obj\x86\Debug\AccessModifiers.csprojAssemblyReference.cache
+G:\ProjectsLinux\CsharpExamples\AccessModifiers\obj\x86\Debug\AccessModifiers.csproj.CoreCompileInputs.cache
+G:\ProjectsLinux\CsharpExamples\AccessModifiers\obj\x86\Debug\AccessModifiers.exe
+G:\ProjectsLinux\CsharpExamples\AccessModifiers\obj\x86\Debug\AccessModifiers.pdb

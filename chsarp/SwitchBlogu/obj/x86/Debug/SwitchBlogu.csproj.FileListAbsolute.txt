@@ -1,0 +1,6 @@
+/home/ruby/Projects/CsharpExamples/SwitchBlogu/obj/x86/Debug/SwitchBlogu.csproj.CoreCompileInputs.cache
+/home/ruby/Projects/CsharpExamples/SwitchBlogu/bin/Debug/SwitchBlogu.exe
+/home/ruby/Projects/CsharpExamples/SwitchBlogu/bin/Debug/SwitchBlogu.pdb
+/home/ruby/Projects/CsharpExamples/SwitchBlogu/obj/x86/Debug/SwitchBlogu.exe
+/home/ruby/Projects/CsharpExamples/SwitchBlogu/obj/x86/Debug/SwitchBlogu.pdb
+/home/ruby/Projects/CsharpExamples/SwitchBlogu/obj/x86/Debug/SwitchBlogu.csprojAssemblyReference.cache
